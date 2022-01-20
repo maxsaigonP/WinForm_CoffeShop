@@ -1,0 +1,8 @@
+D:\CSDL\Win Form\P2T_Coffee_Shop\DTO\bin\Debug\DTO.dll
+D:\CSDL\Win Form\P2T_Coffee_Shop\DTO\bin\Debug\DTO.pdb
+D:\CSDL\Win Form\P2T_Coffee_Shop\DTO\obj\Debug\DTO.dll
+D:\CSDL\Win Form\P2T_Coffee_Shop\DTO\obj\Debug\DTO.pdb
+D:\P2T_Coffee_Shop\DTO\bin\Debug\DTO.dll
+D:\P2T_Coffee_Shop\DTO\bin\Debug\DTO.pdb
+D:\P2T_Coffee_Shop\DTO\obj\Debug\DTO.dll
+D:\P2T_Coffee_Shop\DTO\obj\Debug\DTO.pdb

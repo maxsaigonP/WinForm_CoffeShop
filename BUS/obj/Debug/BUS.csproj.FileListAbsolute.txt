@@ -1,0 +1,22 @@
+D:\CSDL\Win Form\P2T_Coffee_Shop\BUS\bin\Debug\BUS.dll
+D:\CSDL\Win Form\P2T_Coffee_Shop\BUS\bin\Debug\BUS.pdb
+D:\CSDL\Win Form\P2T_Coffee_Shop\BUS\bin\Debug\DAO.dll
+D:\CSDL\Win Form\P2T_Coffee_Shop\BUS\bin\Debug\DTO.dll
+D:\CSDL\Win Form\P2T_Coffee_Shop\BUS\bin\Debug\EntityFramework.dll
+D:\CSDL\Win Form\P2T_Coffee_Shop\BUS\bin\Debug\DAO.pdb
+D:\CSDL\Win Form\P2T_Coffee_Shop\BUS\bin\Debug\DTO.pdb
+D:\CSDL\Win Form\P2T_Coffee_Shop\BUS\bin\Debug\EntityFramework.xml
+D:\CSDL\Win Form\P2T_Coffee_Shop\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\CSDL\Win Form\P2T_Coffee_Shop\BUS\obj\Debug\BUS.dll
+D:\CSDL\Win Form\P2T_Coffee_Shop\BUS\obj\Debug\BUS.pdb
+D:\P2T_Coffee_Shop\BUS\bin\Debug\BUS.dll
+D:\P2T_Coffee_Shop\BUS\bin\Debug\BUS.pdb
+D:\P2T_Coffee_Shop\BUS\bin\Debug\DAO.dll
+D:\P2T_Coffee_Shop\BUS\bin\Debug\DTO.dll
+D:\P2T_Coffee_Shop\BUS\bin\Debug\EntityFramework.dll
+D:\P2T_Coffee_Shop\BUS\bin\Debug\DAO.pdb
+D:\P2T_Coffee_Shop\BUS\bin\Debug\DTO.pdb
+D:\P2T_Coffee_Shop\BUS\bin\Debug\EntityFramework.xml
+D:\P2T_Coffee_Shop\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\P2T_Coffee_Shop\BUS\obj\Debug\BUS.dll
+D:\P2T_Coffee_Shop\BUS\obj\Debug\BUS.pdb

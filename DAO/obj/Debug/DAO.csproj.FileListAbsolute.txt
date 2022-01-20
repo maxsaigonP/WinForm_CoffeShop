@@ -1,0 +1,24 @@
+D:\CSDL\Win Form\P2T_Coffee_Shop\DAO\bin\Debug\DAO.dll.config
+D:\CSDL\Win Form\P2T_Coffee_Shop\DAO\bin\Debug\DAO.dll
+D:\CSDL\Win Form\P2T_Coffee_Shop\DAO\bin\Debug\DAO.pdb
+D:\CSDL\Win Form\P2T_Coffee_Shop\DAO\bin\Debug\DTO.dll
+D:\CSDL\Win Form\P2T_Coffee_Shop\DAO\bin\Debug\EntityFramework.dll
+D:\CSDL\Win Form\P2T_Coffee_Shop\DAO\bin\Debug\EntityFramework.SqlServer.dll
+D:\CSDL\Win Form\P2T_Coffee_Shop\DAO\bin\Debug\DTO.pdb
+D:\CSDL\Win Form\P2T_Coffee_Shop\DAO\bin\Debug\EntityFramework.xml
+D:\CSDL\Win Form\P2T_Coffee_Shop\DAO\bin\Debug\EntityFramework.SqlServer.xml
+D:\CSDL\Win Form\P2T_Coffee_Shop\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+D:\CSDL\Win Form\P2T_Coffee_Shop\DAO\obj\Debug\DAO.dll
+D:\CSDL\Win Form\P2T_Coffee_Shop\DAO\obj\Debug\DAO.pdb
+D:\P2T_Coffee_Shop\DAO\bin\Debug\DAO.dll.config
+D:\P2T_Coffee_Shop\DAO\bin\Debug\DAO.dll
+D:\P2T_Coffee_Shop\DAO\bin\Debug\DAO.pdb
+D:\P2T_Coffee_Shop\DAO\bin\Debug\DTO.dll
+D:\P2T_Coffee_Shop\DAO\bin\Debug\EntityFramework.dll
+D:\P2T_Coffee_Shop\DAO\bin\Debug\EntityFramework.SqlServer.dll
+D:\P2T_Coffee_Shop\DAO\bin\Debug\DTO.pdb
+D:\P2T_Coffee_Shop\DAO\bin\Debug\EntityFramework.xml
+D:\P2T_Coffee_Shop\DAO\bin\Debug\EntityFramework.SqlServer.xml
+D:\P2T_Coffee_Shop\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+D:\P2T_Coffee_Shop\DAO\obj\Debug\DAO.dll
+D:\P2T_Coffee_Shop\DAO\obj\Debug\DAO.pdb

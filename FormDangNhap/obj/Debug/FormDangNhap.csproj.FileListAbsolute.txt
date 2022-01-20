@@ -1,0 +1,66 @@
+D:\CSDL\Win Form\P2T_Coffee_Shop\FormDangNhap\bin\Debug\FormDangNhap.exe.config
+D:\CSDL\Win Form\P2T_Coffee_Shop\FormDangNhap\bin\Debug\FormDangNhap.exe
+D:\CSDL\Win Form\P2T_Coffee_Shop\FormDangNhap\bin\Debug\FormDangNhap.pdb
+D:\CSDL\Win Form\P2T_Coffee_Shop\FormDangNhap\bin\Debug\BUS.dll
+D:\CSDL\Win Form\P2T_Coffee_Shop\FormDangNhap\bin\Debug\DAO.dll
+D:\CSDL\Win Form\P2T_Coffee_Shop\FormDangNhap\bin\Debug\DTO.dll
+D:\CSDL\Win Form\P2T_Coffee_Shop\FormDangNhap\bin\Debug\EntityFramework.dll
+D:\CSDL\Win Form\P2T_Coffee_Shop\FormDangNhap\bin\Debug\EntityFramework.SqlServer.dll
+D:\CSDL\Win Form\P2T_Coffee_Shop\FormDangNhap\bin\Debug\BUS.pdb
+D:\CSDL\Win Form\P2T_Coffee_Shop\FormDangNhap\bin\Debug\DAO.pdb
+D:\CSDL\Win Form\P2T_Coffee_Shop\FormDangNhap\bin\Debug\DTO.pdb
+D:\CSDL\Win Form\P2T_Coffee_Shop\FormDangNhap\bin\Debug\EntityFramework.xml
+D:\CSDL\Win Form\P2T_Coffee_Shop\FormDangNhap\bin\Debug\EntityFramework.SqlServer.xml
+D:\CSDL\Win Form\P2T_Coffee_Shop\FormDangNhap\obj\Debug\FormDangNhap.csprojResolveAssemblyReference.cache
+D:\CSDL\Win Form\P2T_Coffee_Shop\FormDangNhap\obj\Debug\FormDangNhap.frmLogin.resources
+D:\CSDL\Win Form\P2T_Coffee_Shop\FormDangNhap\obj\Debug\FormDangNhap.frmqlBan.resources
+D:\CSDL\Win Form\P2T_Coffee_Shop\FormDangNhap\obj\Debug\FormDangNhap.frmqlNCC.resources
+D:\CSDL\Win Form\P2T_Coffee_Shop\FormDangNhap\obj\Debug\FormDangNhap.frmqlNguyenLieu.resources
+D:\CSDL\Win Form\P2T_Coffee_Shop\FormDangNhap\obj\Debug\FormDangNhap.frmqlNhanVien.resources
+D:\CSDL\Win Form\P2T_Coffee_Shop\FormDangNhap\obj\Debug\FormDangNhap.frmqlSanPham.resources
+D:\CSDL\Win Form\P2T_Coffee_Shop\FormDangNhap\obj\Debug\FormDangNhap.frmqlTaiKhoan.resources
+D:\CSDL\Win Form\P2T_Coffee_Shop\FormDangNhap\obj\Debug\FormDangNhap.frmQuanLy.resources
+D:\CSDL\Win Form\P2T_Coffee_Shop\FormDangNhap\obj\Debug\FormDangNhap.ProfileUser.resources
+D:\CSDL\Win Form\P2T_Coffee_Shop\FormDangNhap\obj\Debug\FormDangNhap.Properties.Resources.resources
+D:\CSDL\Win Form\P2T_Coffee_Shop\FormDangNhap\obj\Debug\FormDangNhap.QuanLyKho.resources
+D:\CSDL\Win Form\P2T_Coffee_Shop\FormDangNhap\obj\Debug\FormDangNhap.csproj.GenerateResource.Cache
+D:\CSDL\Win Form\P2T_Coffee_Shop\FormDangNhap\obj\Debug\FormDangNhap.exe
+D:\CSDL\Win Form\P2T_Coffee_Shop\FormDangNhap\obj\Debug\FormDangNhap.pdb
+D:\P2T_Coffee_Shop\FormDangNhap\bin\Debug\FormDangNhap.exe.config
+D:\P2T_Coffee_Shop\FormDangNhap\bin\Debug\FormDangNhap.exe
+D:\P2T_Coffee_Shop\FormDangNhap\bin\Debug\FormDangNhap.pdb
+D:\P2T_Coffee_Shop\FormDangNhap\bin\Debug\en-GB\FormDangNhap.resources.dll
+D:\P2T_Coffee_Shop\FormDangNhap\bin\Debug\BUS.dll
+D:\P2T_Coffee_Shop\FormDangNhap\bin\Debug\DAO.dll
+D:\P2T_Coffee_Shop\FormDangNhap\bin\Debug\DTO.dll
+D:\P2T_Coffee_Shop\FormDangNhap\bin\Debug\EntityFramework.dll
+D:\P2T_Coffee_Shop\FormDangNhap\bin\Debug\EntityFramework.SqlServer.dll
+D:\P2T_Coffee_Shop\FormDangNhap\bin\Debug\BUS.pdb
+D:\P2T_Coffee_Shop\FormDangNhap\bin\Debug\DAO.pdb
+D:\P2T_Coffee_Shop\FormDangNhap\bin\Debug\DTO.pdb
+D:\P2T_Coffee_Shop\FormDangNhap\bin\Debug\EntityFramework.xml
+D:\P2T_Coffee_Shop\FormDangNhap\bin\Debug\EntityFramework.SqlServer.xml
+D:\P2T_Coffee_Shop\FormDangNhap\obj\Debug\FormDangNhap.csprojResolveAssemblyReference.cache
+D:\P2T_Coffee_Shop\FormDangNhap\obj\Debug\FormDangNhap.frmBanHang.resources
+D:\P2T_Coffee_Shop\FormDangNhap\obj\Debug\FormDangNhap.frmCTSP.resources
+D:\P2T_Coffee_Shop\FormDangNhap\obj\Debug\FormDangNhap.frmLogin.resources
+D:\P2T_Coffee_Shop\FormDangNhap\obj\Debug\FormDangNhap.frmqlBan.resources
+D:\P2T_Coffee_Shop\FormDangNhap\obj\Debug\FormDangNhap.frmqlHoaDon.resources
+D:\P2T_Coffee_Shop\FormDangNhap\obj\Debug\FormDangNhap.frmqlNCC.resources
+D:\P2T_Coffee_Shop\FormDangNhap\obj\Debug\FormDangNhap.frmqlNguyenLieu.resources
+D:\P2T_Coffee_Shop\FormDangNhap\obj\Debug\FormDangNhap.frmqlNhanVien.resources
+D:\P2T_Coffee_Shop\FormDangNhap\obj\Debug\FormDangNhap.frmqlSanPham.resources
+D:\P2T_Coffee_Shop\FormDangNhap\obj\Debug\FormDangNhap.frmqlTaiKhoan.resources
+D:\P2T_Coffee_Shop\FormDangNhap\obj\Debug\FormDangNhap.frmQuanLy.resources
+D:\P2T_Coffee_Shop\FormDangNhap\obj\Debug\FormDangNhap.frmqlCTHD.resources
+D:\P2T_Coffee_Shop\FormDangNhap\obj\Debug\FormDangNhap.frmTTTaiKhoan.resources
+D:\P2T_Coffee_Shop\FormDangNhap\obj\Debug\FormDangNhap.frmBaoCao.resources
+D:\P2T_Coffee_Shop\FormDangNhap\obj\Debug\FormDangNhap.frmXemBaoCao.resources
+D:\P2T_Coffee_Shop\FormDangNhap\obj\Debug\FormDangNhap.Properties.Resources.resources
+D:\P2T_Coffee_Shop\FormDangNhap\obj\Debug\FormDangNhap.frmLogin.en-GB.resources
+D:\P2T_Coffee_Shop\FormDangNhap\obj\Debug\FormDangNhap.csproj.GenerateResource.Cache
+D:\P2T_Coffee_Shop\FormDangNhap\obj\Debug\RdlCompile.cache
+D:\P2T_Coffee_Shop\FormDangNhap\obj\Debug\RdlCompile.compiled
+D:\P2T_Coffee_Shop\FormDangNhap\obj\Debug\en-GB\FormDangNhap.resources.dll
+D:\P2T_Coffee_Shop\FormDangNhap\obj\Debug\FormDangNhap.exe
+D:\P2T_Coffee_Shop\FormDangNhap\obj\Debug\FormDangNhap.pdb

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="36737f8155c44d85ba49ca8b7632f5ce" Name="Diagram1">
+        <EntityTypeShape EntityType="QLCoffeeP2TModel.BANPHUCVU" Width="1.5" PointX="0.75" PointY="8" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLCoffeeP2TModel.CT_HOADON" Width="1.5" PointX="5.25" PointY="2.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLCoffeeP2TModel.CT_SanPham" Width="1.5" PointX="10.25" PointY="8.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLCoffeeP2TModel.HOADON" Width="1.5" PointX="3" PointY="2.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLCoffeeP2TModel.NGUYENLIEU" Width="1.5" PointX="8" PointY="7" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLCoffeeP2TModel.NHACUNGCAP" Width="1.5" PointX="5.75" PointY="7.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLCoffeeP2TModel.NHANVIEN" Width="1.5" PointX="0.75" PointY="2.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLCoffeeP2TModel.SanPham" Width="1.5" PointX="3" PointY="9.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLCoffeeP2TModel.TAIKHOAN" Width="1.5" PointX="3" PointY="6.375" IsExpanded="true" />
+        <AssociationConnector Association="QLCoffeeP2TModel.FK__HOADON__MaSoBan__38996AB5" ManuallyRouted="false" />
+        <AssociationConnector Association="QLCoffeeP2TModel.FK__CT_HOADON__MaHD__440B1D61" ManuallyRouted="false" />
+        <AssociationConnector Association="QLCoffeeP2TModel.FK__CT_HOADON__MaSP__44FF419A" ManuallyRouted="false" />
+        <AssociationConnector Association="QLCoffeeP2TModel.FK__CT_SanPham__MaNL__3F466844" ManuallyRouted="false" />
+        <AssociationConnector Association="QLCoffeeP2TModel.FK__CT_SanPham__MaSP__403A8C7D" ManuallyRouted="false" />
+        <AssociationConnector Association="QLCoffeeP2TModel.FK__HOADON__MaNV__37A5467C" ManuallyRouted="false" />
+        <AssociationConnector Association="QLCoffeeP2TModel.FK__NGUYENLIE__MaNCC__286302EC" ManuallyRouted="false" />
+        <AssociationConnector Association="QLCoffeeP2TModel.FK__TAIKHOAN__MaNV__32E0915F" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

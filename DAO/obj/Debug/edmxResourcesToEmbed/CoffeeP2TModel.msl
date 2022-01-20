@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="QLCoffeeP2TModelStoreContainer" CdmEntityContainer="QLCoffeeP2TEntities">
+    <EntitySetMapping Name="BANPHUCVU">
+      <EntityTypeMapping TypeName="QLCoffeeP2TModel.BANPHUCVU">
+        <MappingFragment StoreEntitySet="BANPHUCVU">
+          <ScalarProperty Name="MaSoBan" ColumnName="MaSoBan" />
+          <ScalarProperty Name="SoGhe" ColumnName="SoGhe" />
+          <ScalarProperty Name="TinhTrang" ColumnName="TinhTrang" />
+          <ScalarProperty Name="TrangThai" ColumnName="TrangThai" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CT_HOADON">
+      <EntityTypeMapping TypeName="QLCoffeeP2TModel.CT_HOADON">
+        <MappingFragment StoreEntitySet="CT_HOADON">
+          <ScalarProperty Name="MaHD" ColumnName="MaHD" />
+          <ScalarProperty Name="MaSP" ColumnName="MaSP" />
+          <ScalarProperty Name="SoLuong" ColumnName="SoLuong" />
+          <ScalarProperty Name="DonGia" ColumnName="DonGia" />
+          <ScalarProperty Name="TrangThai" ColumnName="TrangThai" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CT_SanPham">
+      <EntityTypeMapping TypeName="QLCoffeeP2TModel.CT_SanPham">
+        <MappingFragment StoreEntitySet="CT_SanPham">
+          <ScalarProperty Name="MaSP" ColumnName="MaSP" />
+          <ScalarProperty Name="MaNL" ColumnName="MaNL" />
+          <ScalarProperty Name="TrangThai" ColumnName="TrangThai" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="HOADON">
+      <EntityTypeMapping TypeName="QLCoffeeP2TModel.HOADON">
+        <MappingFragment StoreEntitySet="HOADON">
+          <ScalarProperty Name="MaHD" ColumnName="MaHD" />
+          <ScalarProperty Name="MaSoBan" ColumnName="MaSoBan" />
+          <ScalarProperty Name="MaNV" ColumnName="MaNV" />
+          <ScalarProperty Name="NgayLapHD" ColumnName="NgayLapHD" />
+          <ScalarProperty Name="TrangThai" ColumnName="TrangThai" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="NGUYENLIEU">
+      <EntityTypeMapping TypeName="QLCoffeeP2TModel.NGUYENLIEU">
+        <MappingFragment StoreEntitySet="NGUYENLIEU">
+          <ScalarProperty Name="MaNL" ColumnName="MaNL" />
+          <ScalarProperty Name="TenNL" ColumnName="TenNL" />
+          <ScalarProperty Name="MaNCC" ColumnName="MaNCC" />
+          <ScalarProperty Name="DonViTinh" ColumnName="DonViTinh" />
+          <ScalarProperty Name="DonGia" ColumnName="DonGia" />
+          <ScalarProperty Name="SLTonKho" ColumnName="SLTonKho" />
+          <ScalarProperty Name="TrangThai" ColumnName="TrangThai" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="NHACUNGCAP">
+      <EntityTypeMapping TypeName="QLCoffeeP2TModel.NHACUNGCAP">
+        <MappingFragment StoreEntitySet="NHACUNGCAP">
+          <ScalarProperty Name="MaNCC" ColumnName="MaNCC" />
+          <ScalarProperty Name="TenNCC" ColumnName="TenNCC" />
+          <ScalarProperty Name="DiaChi" ColumnName="DiaChi" />
+          <ScalarProperty Name="SDT" ColumnName="SDT" />
+          <ScalarProperty Name="TrangThai" ColumnName="TrangThai" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="NHANVIEN">
+      <EntityTypeMapping TypeName="QLCoffeeP2TModel.NHANVIEN">
+        <MappingFragment StoreEntitySet="NHANVIEN">
+          <ScalarProperty Name="MaNV" ColumnName="MaNV" />
+          <ScalarProperty Name="TenNV" ColumnName="TenNV" />
+          <ScalarProperty Name="NgaySinh" ColumnName="NgaySinh" />
+          <ScalarProperty Name="NgayVaoLam" ColumnName="NgayVaoLam" />
+          <ScalarProperty Name="GioiTinh" ColumnName="GioiTinh" />
+          <ScalarProperty Name="ChucVu" ColumnName="ChucVu" />
+          <ScalarProperty Name="SDT" ColumnName="SDT" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="TrangThai" ColumnName="TrangThai" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SanPham">
+      <EntityTypeMapping TypeName="QLCoffeeP2TModel.SanPham">
+        <MappingFragment StoreEntitySet="SanPham">
+          <ScalarProperty Name="MaSP" ColumnName="MaSP" />
+          <ScalarProperty Name="TenSp" ColumnName="TenSp" />
+          <ScalarProperty Name="DonGia" ColumnName="DonGia" />
+          <ScalarProperty Name="HinhAnh" ColumnName="HinhAnh" />
+          <ScalarProperty Name="TrangThai" ColumnName="TrangThai" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TAIKHOAN">
+      <EntityTypeMapping TypeName="QLCoffeeP2TModel.TAIKHOAN">
+        <MappingFragment StoreEntitySet="TAIKHOAN">
+          <ScalarProperty Name="TenTK" ColumnName="TenTK" />
+          <ScalarProperty Name="MatKhau" ColumnName="MatKhau" />
+          <ScalarProperty Name="MaNV" ColumnName="MaNV" />
+          <ScalarProperty Name="LoaiTK" ColumnName="LoaiTK" />
+          <ScalarProperty Name="TrangThai" ColumnName="TrangThai" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="CapNhatTK" FunctionName="QLCoffeeP2TModel.Store.CapNhatTK" />
+    <FunctionImportMapping FunctionImportName="KiemTraTK" FunctionName="QLCoffeeP2TModel.Store.KiemTraTK">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QLCoffeeP2TModel.KiemTraTK_Result">
+          <ScalarProperty Name="TenTK" ColumnName="TenTK" />
+          <ScalarProperty Name="MatKhau" ColumnName="MatKhau" />
+          <ScalarProperty Name="MaNV" ColumnName="MaNV" />
+          <ScalarProperty Name="LoaiTK" ColumnName="LoaiTK" />
+          <ScalarProperty Name="TrangThai" ColumnName="TrangThai" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="SuaBan" FunctionName="QLCoffeeP2TModel.Store.SuaBan" />
+    <FunctionImportMapping FunctionImportName="SuaCTHD" FunctionName="QLCoffeeP2TModel.Store.SuaCTHD" />
+    <FunctionImportMapping FunctionImportName="SuaHD" FunctionName="QLCoffeeP2TModel.Store.SuaHD" />
+    <FunctionImportMapping FunctionImportName="SuaNCC" FunctionName="QLCoffeeP2TModel.Store.SuaNCC" />
+    <FunctionImportMapping FunctionImportName="SuaNL" FunctionName="QLCoffeeP2TModel.Store.SuaNL" />
+    <FunctionImportMapping FunctionImportName="SuaNV" FunctionName="QLCoffeeP2TModel.Store.SuaNV" />
+    <FunctionImportMapping FunctionImportName="SuaSP" FunctionName="QLCoffeeP2TModel.Store.SuaSP" />
+    <FunctionImportMapping FunctionImportName="ThemBan" FunctionName="QLCoffeeP2TModel.Store.ThemBan" />
+    <FunctionImportMapping FunctionImportName="ThemCTHD" FunctionName="QLCoffeeP2TModel.Store.ThemCTHD" />
+    <FunctionImportMapping FunctionImportName="ThemHD" FunctionName="QLCoffeeP2TModel.Store.ThemHD" />
+    <FunctionImportMapping FunctionImportName="ThemNCC" FunctionName="QLCoffeeP2TModel.Store.ThemNCC" />
+    <FunctionImportMapping FunctionImportName="ThemNL" FunctionName="QLCoffeeP2TModel.Store.ThemNL" />
+    <FunctionImportMapping FunctionImportName="ThemNV" FunctionName="QLCoffeeP2TModel.Store.ThemNV" />
+    <FunctionImportMapping FunctionImportName="ThemSP" FunctionName="QLCoffeeP2TModel.Store.ThemSP" />
+    <FunctionImportMapping FunctionImportName="ThemTK" FunctionName="QLCoffeeP2TModel.Store.ThemTK" />
+    <FunctionImportMapping FunctionImportName="XoaBan" FunctionName="QLCoffeeP2TModel.Store.XoaBan" />
+    <FunctionImportMapping FunctionImportName="XoaCTHD" FunctionName="QLCoffeeP2TModel.Store.XoaCTHD" />
+    <FunctionImportMapping FunctionImportName="XoaHD" FunctionName="QLCoffeeP2TModel.Store.XoaHD" />
+    <FunctionImportMapping FunctionImportName="XoaNCC" FunctionName="QLCoffeeP2TModel.Store.XoaNCC" />
+    <FunctionImportMapping FunctionImportName="XoaNL" FunctionName="QLCoffeeP2TModel.Store.XoaNL" />
+    <FunctionImportMapping FunctionImportName="XoaNV" FunctionName="QLCoffeeP2TModel.Store.XoaNV" />
+    <FunctionImportMapping FunctionImportName="XoaSP" FunctionName="QLCoffeeP2TModel.Store.XoaSP" />
+    <FunctionImportMapping FunctionImportName="XoaTK" FunctionName="QLCoffeeP2TModel.Store.XoaTK" />
+  </EntityContainerMapping>
+</Mapping>
